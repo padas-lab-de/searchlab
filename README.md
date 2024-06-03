@@ -8,14 +8,8 @@ Source code for our paper :
 
 
 
-<!-- <p align="center">
-  <img align="middle" src="assets/images/homepage.png" style="max-width: 100%; height: auto;" alt="ActiveRAG"/>
-</p> -->
 <p align="center">
-  <video width="100%" height="auto" controls>
-    <source src="assets/videos/searchsim_demo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <img align="middle" src="assets/images/homepage.png" style="max-width: 100%; height: auto;" alt="ActiveRAG"/>
 </p>
 
 
