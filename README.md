@@ -6,10 +6,10 @@ Source code for our paper :
 
 ## Overview
 
-
-
 <p align="center">
-  <img align="middle" src="assets/images/homepage.png" style="max-width: 100%; height: auto;" alt="ActiveRAG"/>
+  <a href="https://github.com/saberzerhoudi/searchsim/raw/main/assets/videos/seachsim_demo.mp4">
+  <img src="assets/images/homepage.png" alt="SearchSim Demo Video" style="max-width: 100%; height: auto;">
+  </a>
 </p>
 
 
