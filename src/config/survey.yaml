@@ -1,0 +1,33 @@
+pre_study_questions:
+  questions:
+    - question_id: "english_level"
+      question_text: "What is your level of English proficiency?"
+      response_type: "scale"
+      scale_min: 1
+      scale_max: 5
+      scale_labels:
+        - "Very Low"
+        - "Low"
+        - "Moderate"
+        - "High"
+        - "Very High"
+    - question_id: "age"
+      question_text: "What is your age?"
+      response_type: "integer"
+    - question_id: "education_level"
+      question_text: "What is your highest level of education?"
+      response_type: "choice"
+      choices:
+        - "High School"
+        - "Bachelor's Degree"
+        - "Master's Degree"
+        - "PhD"
+        - "Other"
+    - question_id: "major"
+      question_text: "What was your major area of study?"
+      response_type: "text"
+    - question_id: "search_expertise"
+      question_text: "Rate your expertise using web search engines on a scale of 1 to 5."
+      response_type: "scale"
+      scale_min: 1
+      scale_max: 5

@@ -1,0 +1,7 @@
+,id,studentID,task_id,query,score,content
+0,5,2014012759,11, Dulles airport location,5,TIMESTAMP=1512979310708	USER=2014012759	TASK=11	QUERY= Dulles airport location	ACTION=QUERY_SATISFACTION_ANNOTATION	INFO:	score=5
+1,6,2014012759,4, cheap off-airport parking Dulles airport,3,TIMESTAMP=1512979510278	USER=2014012759	TASK=4	QUERY= cheap off-airport parking Dulles airport	ACTION=QUERY_SATISFACTION_ANNOTATION	INFO:	score=3
+2,7,2014012759,4, cheap off-airport parking Dulles airport  ,2,TIMESTAMP=1512979674796	USER=2014012759	TASK=4	QUERY= cheap off-airport parking Dulles airport  	ACTION=QUERY_SATISFACTION_ANNOTATION	INFO:	score=2
+3,8,2014012759,4, cheap off-airport parking Dulles airport,3,TIMESTAMP=1512979890681	USER=2014012759	TASK=4	QUERY= cheap off-airport parking Dulles airport	ACTION=QUERY_SATISFACTION_ANNOTATION	INFO:	score=3
+4,9,2014012759,1, metro stops close to Dulles airport,5,TIMESTAMP=1512980133512	USER=2014012759	TASK=1	QUERY= metro stops close to Dulles airport	ACTION=QUERY_SATISFACTION_ANNOTATION	INFO:	score=5
+
