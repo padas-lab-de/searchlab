@@ -6,10 +6,16 @@ Source code for our paper :
 
 ## Overview
 
+
+
+<!-- <p align="center">
+  <img align="middle" src="assets/images/homepage.png" style="max-width: 100%; height: auto;" alt="ActiveRAG"/>
+</p> -->
 <p align="center">
-  <a href="https://github.com/saberzerhoudi/searchsim/raw/main/assets/videos/seachsim_demo.mp4">
-  <img src="assets/images/homepage.png" alt="SearchSim Demo Video" style="max-width: 100%; height: auto;">
-  </a>
+  <video width="100%" height="auto" controls>
+    <source src="assets/videos/searchsim_demo.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </p>
 
 
