@@ -1,7 +1,7 @@
-# SearchSim: Exploring Conversational and Traditional Search Interfaces in Information Retrieval
+# SearchLab: Exploring Conversational and Traditional Search Interfaces in Information Retrieval
 
 Source code for our paper :  
-***SearchSim: Exploring Conversational and Traditional Search Interfaces in Information Retrieval***
+***SearchLab: Exploring Conversational and Traditional Search Interfaces in Information Retrieval***
 
 
 ## Overview
@@ -9,7 +9,7 @@ Source code for our paper :
 
 
 
-https://github.com/saberzerhoudi/searchsim/assets/90967502/183ed1a6-0529-421c-bfc9-07a2eaa7265d
+https://github.com/saberzerhoudi/searchlab/assets/90967502/183ed1a6-0529-421c-bfc9-07a2eaa7265d
 <!-- <p align="center">
   <img align="middle" src="assets/images/homepage.png" style="max-width: 100%; height: auto;" alt="ActiveRAG"/>
 </p> -->
