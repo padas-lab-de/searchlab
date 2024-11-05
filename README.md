@@ -7,12 +7,11 @@ The recent advancements in Large Language Models (LLMs) have led to increased po
 
 ## Overview
 
-
-
+![mockup](https://github.com/user-attachments/assets/e1ed9469-e224-4726-9c91-dbaaa0ecf22c)
 
 https://github.com/saberzerhoudi/searchlab/assets/90967502/183ed1a6-0529-421c-bfc9-07a2eaa7265d
 <!-- <p align="center">
-  <img align="middle" src="assets/images/homepage.png" style="max-width: 100%; height: auto;" alt="ActiveRAG"/>
+  <img align="middle" src="assets/images/homepage.png" style="max-width: 100%; height: auto;" alt="searchLab"/>
 </p> -->
 
 ## Quick Start
