@@ -2,25 +2,33 @@ user_study:
   id_code: "US-00123"
   topics_path: "/path/to/topics/file.yaml"
   number_of_topics: 10
+  task_type: "traditional" # conversational, hybrid
   timer:
     enabled: true
     duration: 60000
+  search_engine:
+    type: "bing"
+    api_key: "YOUR_BING_API_KEY"
+    search_properties:
+    results_per_page: 10 
   llm_endpoints:
-    - url: "https://api.example-llm.com/v1"
-      api_key: "YOUR_API_KEY_HERE"
+    type: "chat_gpt_3_5_turbo_0125"
+    enabled: true
+    api_key: "YOUR_CHAT_GPT_API_KEY"
+    generation_properties: 
+        decoding_method: "greedy" 
+        temperature: 1.0 
+        top_k: 50 
+        top_p: 1.0 
+  data_collection:
+    enabled: true
+    anonymize_data: true
+    store_responses: true
+    logs_path: "/path/to/logs/"
+    logs_format: "csv"
+  post_study_questions:
+    enabled: true
+    config_path: "/path/to/post_study_questions.yaml"
   pre_study_questions:
     enabled: true
     config_path: "/path/to/pre_study_questions.yaml"
-  search_engine:
-    type: "bing"
-    api_key: "YOUR_BING_API_KEY_HERE"
-
-# Additional configurations
-study_parameters:
-  study_date: "2024-06-15"
-  duration_days: 7
-  participant_limit: 50
-  data_collection:
-    anonymize_data: true
-    store_responses: true
-    response_format: "json"
